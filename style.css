@@ -67,3 +67,7 @@ ul {
     font-size: large;
 }
 
+li::marker {
+    color: white;
+}
+
