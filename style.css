@@ -71,3 +71,12 @@ li::marker {
     color: white;
 }
 
+footer {
+    margin-top: 70px;
+}
+
+footer a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
